@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dervishgrady
+- 👀 I’m interested in Web Development, Java, Spring, Oracle DB, NoSQL, Haskell, Javascript Frameworks....
+- 🌱 FullStack Javascript Development
+- 💞️ Java, Spring, Javascript
+- 📫 gendoikari.ikari@gmail.com
